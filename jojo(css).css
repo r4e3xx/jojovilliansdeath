@@ -1,0 +1,262 @@
+body{
+	background-color: #000082;
+}
+.h1{
+	font-size: 50px;
+	color: #fd4327;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+h2{
+	font-size: 25px;
+	color: #e1d256;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+.h3{
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 20px;
+	color: #00ad00;
+}
+p{
+	font-size: 15px;
+	color: #d39343;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+a{
+	font-size: 16px;
+	color: #d39343;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+.button2{
+	transform: translateY(-15px);
+}
+a:hover{
+	color: #e1d256;
+	background-color: #ad4327;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+a:link{
+	text-decoration: none
+}
+.button{
+	background-color: #5555dd;
+	box-shadow: 0 0 4px 8px #227;
+	width: 50px;
+	height: 20px;
+	margin: 20px;
+	border-radius: 10px;
+}
+.animation{
+	height: 300px;
+    display: flex;
+    vertical-align: middle;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tooru{
+	width: 247px;
+}
+.toru1{
+	position: absolute;
+}
+.toru2{
+	position: absolute;
+	opacity: 0;
+}
+.norm{
+	justify-content: flex-start;
+}
+.mmmpon{
+	position: relative;
+	right: 15px;
+}
+.diotipo{
+	display: flex;
+}
+.hhh{
+	justify-content: flex-end;
+}
+.piska{
+	height: 100%;
+	width: 50%;
+}
+.stick{
+	border-radius: 5px;
+	background-color: #66a;
+	width: 10px;
+	height: 2000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.im{
+	justify-content: flex-end;
+	display: flex;
+}
+.podpis{
+	width: 300px;
+	justify-content: flex-end;
+}
+.circle{
+	border-radius: 20px;
+	background-color: #00a;
+	height: 40px;
+	width: 40px;
+}
+.img{
+	margin: 20px;
+	height: 200px;
+}
+.info{
+	display: flex;
+	justify-content: center;
+	vertical-align: middle;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+.all{
+	justify-content: center;
+	vertical-align: middle;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+.link2{
+	margin: 30px;
+}
+.link{
+	border-radius: 10px;
+	background-color: #000045;
+	margin: 20px;
+	height: 19.2px;
+	box-shadow: 0 0 3px 10px #000067;
+	width: 170px;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	display: flex;
+	text-align: center;
+	justify-content: space-around;
+	vertical-align: middle;
+}
+.center{
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	display: flex;
+}
+.other33{
+	border-radius: 10px;
+	background-color: #000045;
+	height: 350px;
+	width: 1000px;
+	display: flex;
+	box-shadow: 0 0 5px 15px #000067;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+.other{
+	border-radius: 10px;
+	background-color: #000045;
+	box-shadow: 0 0 5px 15px #000067;
+	height: 300px;
+	width: 620px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+.AAAAAAAAAA{
+	margin: 30px;
+	height: 200px;
+}
+.photoanimation{
+	height: 300px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	margin: 0px;
+}
+.antagonist3{
+	margin-left: 50px;
+	margin-right: 20px;
+	width: 25%;
+}
+.antagonist2{
+	margin-left: 50px;
+	margin-right: 20px;
+	width: 30%;
+}
+.antagonist1{
+	margin-left: 50px;
+	margin-right: 20px;
+	width: 20%;
+}
+.top{
+	margin-top: 250px;
+}
+.bottom{
+	margin-bottom: 250px;
+}
+.antagonist{
+	margin: 20px;
+	width: 20%;
+}
+.other228{
+	width: 250px;
+	height: 400px;
+	justify-content: space-around;
+	vertical-align: center;
+	border-radius: 10px;
+	background-color: #000045;
+	box-shadow: 0 0 5px 15px #000067;
+	margin: 30px;
+}
+.pucci{
+	transform: translateX(-20px) translateY(-220px);
+}
+.nepucci{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-end;
+	width: 131px;
+}
+.idpucci{
+	width: 0;
+	height: 0;
+}
+.notother{
+    justify-content: space-around;
+	display: flex;
+	vertical-align: middle;
+}
+.antagonists{
+	margin: 20px;
+	box-shadow: 0 0 5px 5px #322375;
+	height: 300px;
+}
+.right{
+    justify-content: flex-end;
+}
+.links{
+	justify-content: center;
+	vertical-align: middle;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	display: flex;
+}
+.o222{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+	width: 150px;
+}
+.o2{
+	height: 0px;
+	width: 0px;
+	box-shadow: 0px 0 80px 40px #aecfff;
+}
